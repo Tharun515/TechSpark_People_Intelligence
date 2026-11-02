@@ -8,6 +8,12 @@
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Explore-6C5CE7?style=for-the-badge)](https://oxidized-tumbleweed-o2w.julius.site/?ref=P7K65GXNPT63&utm_source=shared_artifact)
 [![Dataset](https://img.shields.io/badge/Dataset-Synthetic-16A085?style=for-the-badge)](#dataset-overview)
 [![Focus](https://img.shields.io/badge/Focus-HR%20Analytics-2980B9?style=for-the-badge)](#dashboard-sections)
+<img width="959" height="539" alt="Screenshot 2026-11-02 115952" src="https://github.com/user-attachments/assets/c0ab537b-300f-49f3-bc5f-9f0812160454" />
+<img width="956" height="538" alt="Screenshot 2026-11-02 120128" src="https://github.com/user-attachments/assets/4949917f-0f0a-404e-bc3d-dc20f0d98d61" />
+<img width="959" height="536" alt="Screenshot 2026-11-02 120203" src="https://github.com/user-attachments/assets/272ffb82-2820-41e8-ad85-2972950459c5" />
+
+
+
 
 </div>
 
